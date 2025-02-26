@@ -10,17 +10,11 @@
 <h3
 <div aling="right">
   Programming Languages and Tools. 
- <img src= "https://pluspng.com/img-png/python-logo-png-png-format-flattened-601.png" height="100" /> 
- <br <img scr= "https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" height="100" /> 
-       </h3>
+
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
