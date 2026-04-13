@@ -1,40 +1,68 @@
-<h2 align="left">Hey 👋! My name is POOJA. I'm an aspiring  Software Enginner from India.</h2>
+<h2 align="left">Hey 👋! My name is POOJA. </h2>
 
 ###
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" height="400"  />
+  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" height="500"  />
 </div>
 
 ###
-<h3
-<div aling="right">
-  Programming Languages and Tools. 
+🚀 Aspiring AI Engineer | Software Developer | B.Tech CSE Student  
+💡 Passionate about Artificial Intelligence, Machine Learning, and Real-World Problem Solving  
+🏥 Building AI Healthcare Solutions | AI Voice Assistants | Research Presenter at ICOTET-2024  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 👩‍💻 About Me
+I am a Computer Science undergraduate passionate about creating intelligent systems that solve real-world challenges. My interests lie in Artificial Intelligence, Machine Learning, NLP, and Healthcare Technology. I enjoy building innovative projects that combine software development with impactful problem-solving.
 
-###
+- 🎓 B.Tech in Computer Science & Engineering  
+- 🤖 Exploring AI/ML, NLP, and Automation  
+- 📚 Published and presented research paper at **ICOTET-2024**  
+- 🏆 Hackathon and robotics competition participant  
+- 🔭 Currently working on **MediSphere – AI Hospital Management System**  
+- 🌱 Learning FastAPI, Deep Learning, Backend APIs, and Model Deployment  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+---
+
+## 🚀 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![C](https://img.shields.io/badge/C-Language-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C++](https://img.shields.io/badge/C++-Programming-blueviolet)
+![HTML](https://img.shields.io/badge/HTML-Markup-orange)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue)
+
+
+### Frameworks & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+![Firebase](https://img.shields.io/badge/Firebase-Realtime-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)
+![Git](https://img.shields.io/badge/Git-VersionControl-red)
+![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black)
+
+### AI / ML Skills
+Machine Learning | NLP | Data Analysis | Model Training | Speech Recognition
+
+## 🏆 Achievements
+- 📄 Research Paper Presented at ICOTET-2024  
+- 🥇 Participated in Hackathons  
+- 🤖 Robotics Competition Participant at IIT Jodhpur Prometeo  
+
+---
+
+## 📫 Connect With Me
+📧 Email: kusumpooja18@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/poojakusum
+
+---
+
+### ✨ “Turning innovative ideas into impactful AI solutions.”
 
 ###
 
