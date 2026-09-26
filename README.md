@@ -47,7 +47,7 @@ I am a Computer Science undergraduate passionate about creating intelligent syst
 ![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black)
 
 ### AI / ML Skills
-Machine Learning | NLP | Data Analysis | Model Training | Speech Recognition
+Machine Learning | NLP | LLMs| Computer Vision| Data Analysis | Model Training | Speech Recognition
 
 ## 🏆 Achievements
 - 📄 Research Paper Presented at ICOTET-2024  
