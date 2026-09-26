@@ -3,24 +3,24 @@
 ###
 
 <div align="center">
-  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" height="500"  />
+  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" height="500" />
 </div>
 
 ###
-🚀 Aspiring AI Engineer | Software Developer | B.Tech CSE Student  
+🚀 Aspiring Software Engineer | Software Developer | B.Tech CSE Student  
 💡 Passionate about Artificial Intelligence, Machine Learning, and Real-World Problem Solving  
 🏥 Building AI Healthcare Solutions | AI Voice Assistants | Research Presenter at ICOTET-2024  
 
 ---
 
 ## 👩‍💻 About Me
-I am a Computer Science undergraduate passionate about creating intelligent systems that solve real-world challenges. My interests lie in Artificial Intelligence, Machine Learning, NLP, and Healthcare Technology. I enjoy building innovative projects that combine software development with impactful problem-solving.
+I am a Computer Science undergraduate passionate about creating intelligent systems that solve real-world challenges. My interests lie in Artificial Intelligence, Machine Learning, NLP, LLMs Computer Vision and Healthcare Technology. I enjoy building innovative projects that combine software development with impactful problem-solving.
 
 - 🎓 B.Tech in Computer Science & Engineering  
 - 🤖 Exploring AI/ML, NLP, and Automation  
 - 📚 Published and presented research paper at **ICOTET-2024**  
 - 🏆 Hackathon and robotics competition participant  
-- 🔭 Currently working on **MediSphere – AI Hospital Management System**  
+- 🔭 Currently working on **Virtual Fit AI: AI-powered Virtual Fashion Try-On Platform using Computer Vision and Generative AI**  
 - 🌱 Learning FastAPI, Deep Learning, Backend APIs, and Model Deployment  
 
 ---
@@ -51,7 +51,8 @@ Machine Learning | NLP | Data Analysis | Model Training | Speech Recognition
 
 ## 🏆 Achievements
 - 📄 Research Paper Presented at ICOTET-2024  
-- 🥇 Participated in Hackathons  
+- 🥇 Winner – All India Women Only Hackathon (2025), organized by SheBuilds.
+- 🏅 Winner – Code-Slayer 2K25, NIT Delhi  
 - 🤖 Robotics Competition Participant at IIT Jodhpur Prometeo  
 
 ---
