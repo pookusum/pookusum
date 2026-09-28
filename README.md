@@ -1,9 +1,4 @@
 <h2 align="left">Hey 👋! My name is POOJA. </h2>
-
-###
-<div align="center">
-  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" width="400" />
-</div>
 ###
 🚀 Aspiring Software Engineer | Software Developer | B.Tech CSE Student  
 💡 Passionate about Artificial Intelligence, Machine Learning, and Real-World Problem Solving  
