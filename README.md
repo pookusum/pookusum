@@ -1,7 +1,6 @@
 <h2 align="left">Hey 👋! My name is POOJA. </h2>
-###
-🚀 Aspiring Software Engineer | Software Developer | B.Tech CSE Student  
-💡 Passionate about Artificial Intelligence, Machine Learning, and Real-World Problem Solving  
+🚀 Aspiring Software Engineer | Software Developer | B.Tech CSE Student | 
+💡 Passionate about Artificial Intelligence, Machine Learning, and Real-World Problem Solving | 
 🏥 Building AI Healthcare Solutions | AI Voice Assistants | Research Presenter at ICOTET-2024  
 
 ---
